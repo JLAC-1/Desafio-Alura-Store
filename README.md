@@ -73,7 +73,7 @@ jupyter notebook notebooks/analisis_tiendas.ipynb
 
 
 ## 📌 Conclusión
-** Se recomenienda Vender la Tienda 4 debido a:
+Se recomenienda Vender la Tienda 4 debido a:
 
 1. Menores ingresos globales.
 2. Bajo desempeño en categorías clave.
