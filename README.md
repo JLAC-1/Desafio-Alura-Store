@@ -42,8 +42,8 @@ Las categorías más débiles en Tienda 4 fueron:
 
 
 ### 3. Estrategia de Precios Ineficiente
--Tienda 4 tiene precios bajos en notebooks (1,499.99) y sofás (799.99), pero no genera más ventas.
--Precios altos en TVs (1,299.99) sin ventaja competitiva.
+- Tienda 4 tiene precios bajos en notebooks (1,499.99) y sofás (799.99), pero no genera más ventas.
+- Precios altos en TVs (1,299.99) sin ventaja competitiva.
 
 ### 4. Costos Logísticos
 Tienda 4 tiene el menor costo de envío (23,459.46), pero esto no compensa sus bajos ingresos.
@@ -53,31 +53,29 @@ Tienda 4 tiene el menor costo de envío (23,459.46), pero esto no compensa sus b
 ## 🛠️ Instrucciones para Ejecutar el Análisis
 
 ### Requisitos
--Python 3.8+
--Librerías: pandas, matplotlib, seaborn
--Google Colab o Jupyter Notebook
+- Python 3.8+
+- Librerías: pandas, matplotlib, seaborn
+- Google Colab o Jupyter Notebook
 
 Pasos
-1.Clonar el repositorio:
+1. Clonar el repositorio:
 git clone https://github.com/tu-usuario/alura-store-analysis.git
 
-2.Instalar dependencias:
+2. Instalar dependencias:
 pip install -r requirements.txt
 
-3.Abrir el notebook:
+3. Abrir el notebook:
 jupyter notebook notebooks/analisis_tiendas.ipynb
 
 
 
 ## 📌 Conclusión
-**Recomendación respaldada por:**
-[JLAC] - Analista de Datos
-Vender la Tienda 4 debido a:
+**Se recomenienda Vender la Tienda 4 debido a:
 
-1.Menores ingresos globales.
-2.Bajo desempeño en categorías clave.
-3.Estrategia de precios inconsistente.
-4.Aunque los costos logísticos son bajos, no compensan el bajo rendimiento.
+1. Menores ingresos globales.
+2. Bajo desempeño en categorías clave.
+3. Estrategia de precios inconsistente.
+4. Aunque los costos logísticos son bajos, no compensan el bajo rendimiento.
 
 ---
 
