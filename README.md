@@ -1,9 +1,11 @@
 # Análisis de Desempeño - Tiendas Alura Store
 
-**Analista:** [JLAC]
+**Analista:** JLAC
 **Fecha:** Mayo 2025
 **Versión:** 1.0
+*(Challenge Alura Latam - Data Science)*
 
+---
 ## 📌 Propósito del Proyecto
 Este proyecto analiza el desempeño de cuatro tiendas (Tienda 1, Tienda 2, Tienda 3 y Tienda 4) para determinar cuál presenta el menor rendimiento y debería considerarse para su venta. El análisis se basa en:
 - Facturación total
