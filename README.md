@@ -1,8 +1,8 @@
 # Análisis de Desempeño - Tiendas Alura Store
 
-**Analista:** JLAC
-**Fecha:** Mayo 2025
-**Versión:** 1.0
+**Analista:** JLAC  
+**Fecha:** Mayo 2025  
+**Versión:** 1.0  
 *(Challenge Alura Latam - Data Science)*
 
 ---
